@@ -7,7 +7,7 @@ dependencies:
   - role: geerlingguy.docker
   - role: geerlingguy.pip
     pip_install_packages:
-      - name: docker-py
+      - name: docker
   - role: geerlingguy.nodejs
     nodejs_version: "6.x"
 
